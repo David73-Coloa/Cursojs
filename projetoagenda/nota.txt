@@ -1,0 +1,1 @@
+voce vai precisar de um arquivo .env para poder usar essa agenda.
